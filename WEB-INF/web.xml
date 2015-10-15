@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+<!--
+    <servlet>
+        <servlet-name>ApplicationStartup</servlet-name>
+        <servlet-class>java112.project4.ApplicationStartup</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>GettingAnAttributeServlet</servlet-name>
+        <servlet-class>java112.project4.GettingAnAttributeServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>GettingAndSettingServlet</servlet-name>
+        <servlet-class>java112.project4.GettingAndSettingServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>JDBCSelectEmployees</servlet-name>
+        <servlet-class>java112.project4.JDBCSelectEmployees</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>JSTLLab1Servlet</servlet-name>
+        <servlet-class>java112.project4.JSTLLab1Servlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Project4AddPageDisplayServlet</servlet-name>
+        <servlet-class>java112.project4.Project4AddPageDisplayServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Project4AddServlet</servlet-name>
+        <servlet-class>java112.project4.Project4AddServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Project4SearchPageDisplayServlet</servlet-name>
+        <servlet-class>java112.project4.Project4SearchPageDisplayServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Project4SearchServlet</servlet-name>
+        <servlet-class>java112.project4.Project4SearchServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Employee</servlet-name>
+        <servlet-class>java112.employee.Employee</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>EmployeeDirectory</servlet-name>
+        <servlet-class>java112.employee.EmployeeDirectory</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Search</servlet-name>
+        <servlet-class>java112.employee.Search</servlet-class>
+    </servlet>
+  -->
+
+</web-app>
